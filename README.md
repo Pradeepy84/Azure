@@ -1,13 +1,11 @@
 # Azure-blog
 
-##subtitle
+## subtitle
 
-<html>
-      <head>
-          Code blog
-          testing
-      </head>
-    </html>
+      this is codeblock 1
+      this is codeblock 2
+      
+
 
 * bullet 1
 * bullet 2
