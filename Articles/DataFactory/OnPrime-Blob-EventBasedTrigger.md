@@ -8,6 +8,6 @@
 
 ## Solutions
 
-![Image](https://github.com/Pradeepy84/Azure/blob/master/Articles/DataFactory/Image/Image1.png)
+<img src="../../Image/Image1.png" height="100">
 
 test
