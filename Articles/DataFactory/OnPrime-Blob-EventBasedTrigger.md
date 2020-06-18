@@ -8,3 +8,6 @@
 
 ## Solutions
 
+![Image](https://github.com/Pradeepy84/Azure/blob/master/Articles/DataFactory/Image/Image1.png)
+
+test
