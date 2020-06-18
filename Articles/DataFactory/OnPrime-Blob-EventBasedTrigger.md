@@ -8,6 +8,7 @@
 
 ## Solutions
 
-<img src="../../Image/Image1.png" height="100">
+
+<img src="../../Articles/DataFactory/Image/Image1.png" height="250" title="Image">
 
 test
